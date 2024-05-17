@@ -1,4 +1,4 @@
-# Programação Mobile 📱
+# Programação Mobile / Mobile Programming 📱
 
 ## 🇧🇷 O que eu aprendo
 - Desenvolvimento de aplicativos para dispositivos móveis
